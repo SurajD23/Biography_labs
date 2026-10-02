@@ -1,0 +1,18 @@
+{
+  "n_cells": 111445,
+  "n_genes": 5000,
+  "n_singles": 105,
+  "n_doubles": 131,
+  "n_test_doubles": 131,
+  "sinkhorn_reg": 38.607536654745445,
+  "args": {
+    "data": "data/NormanWeissman2019_filtered.h5ad",
+    "out": "results",
+    "n_hvg": 5000,
+    "min_cells": 30,
+    "n_folds": 5,
+    "n_pcs": 50,
+    "n_cells_dist": 500,
+    "seed": 0
+  }
+}
